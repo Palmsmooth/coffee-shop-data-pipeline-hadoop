@@ -71,3 +71,5 @@ This project aims to create a data pipeline for a coffee shop using Hadoop ecosy
 ### 04-Automated workflow with Apache Oozie
 #### step 1: Join customer data and transaction data on the customer ID (id) to create a table suitable for calculating membership points
 #### step 2: Set the scheduler to create and save a new table each day by running workflows daily
+
+---
